@@ -1,0 +1,158 @@
+body {
+    margin : auto;
+    height : 100%;
+    width : 100%;
+    border : black solid 3px;
+    margin-bottom : -10px;
+    }
+    .head .logo {
+    display : flex;
+    float : left;
+    flex-direction : row;
+    margin-left : 35%;
+    height : 100px;
+    }
+    .date, .day {
+    float : right;
+    margin-top : 10px;
+    font-family : Arial, Helvetica, sans-serif;
+    }
+    header h1, h2 {
+    font-family : Arial, Helvetica, sans-serif;
+    padding-top : 5px;
+    }
+    .menu {
+    display : flex;
+    flex-direction : column;
+    gap : 30px;
+    border : gray dashed 1px;
+    padding-top : 3px;
+    padding-bottom : 3px;
+    margin-right : -25%;
+    margin-top : -17%;
+    }
+    a {
+    border : grey 2px;
+    border-radius : 15px;
+    background-color : grey;
+    padding : 2%;
+    cursor : pointer;
+    }
+    a:hover {
+    background-color : rgb(212, 183, 183, 0.792);
+    color : rgb(10, 1, 1);
+    padding : 2%;
+    cursor : pointer;
+    }
+    a {
+    text-decoration : none;
+    color : rgb(58, 63, 63);
+    }
+    .all, .all1 {
+    display : flex;
+    flex-direction : row;
+    margin-left : 20%;
+    justify-content : center;
+    align-content : center;
+    }
+    .ab {
+    display : flex;
+    gap : 20px;
+    }
+    .ab1 {
+    margin-left : 7%;
+    margin-right : 90%;
+    padding-right : 10px;
+    }
+    .ab2 {
+    margin-left : -89.7%;
+    margin-right : 80%;
+    padding-right : 15px;
+    }
+    .ab3 {
+    margin-left : -79.7%;
+    margin-right : 80%;
+    padding-right : 15px;
+    margin-top : -1%;
+    }
+    hr {
+    height : 3px;
+    background-color : black;
+    }
+    strong {
+    font-size : x-large;
+    font-family : Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    }
+    h2 {
+    font-family : cursive;
+    }
+    .ab11, .ab22, .ab33, img {
+    width : 160px;
+    height : 93px;
+    }
+    .t1 th, td, tr {
+    border : black solid 1px;
+    }
+    .graph {
+    height : 275px;
+    width : 270px;
+    }
+    .ab111 {
+    margin-top : -200px;
+    margin-left : -5px;
+    }
+    h4 {
+    font-family : cursive;
+    text-align : center;
+    }
+    .table {
+    display : flex;
+    flex-direction : column;
+    margin-top : -17%;
+    margin-left : 55%;
+    margin-right : 10%;
+    }
+    .t1 {
+    width : 35%;
+    }
+    .table h4 {
+    margin-left : -70%;
+    font-family : Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    }
+    .ab3, .ab2 {
+    margin-top : 0.3%;
+    }
+    .all1 .ab1 {
+    margin-top : -20%;
+    margin-left : -5px;
+    }
+    .hr1 {
+    margin-top : 20px;
+    }
+    th {
+    padding : 2px;
+    }
+    td {
+    font-family : Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    padding : 2px;
+    }
+    .ah {
+    margin-right : -5%;
+    color : white;
+    }
+    .all2 {
+    display : flex;
+    flex-direction : row;
+    justify-content : center;
+    align-content : center;
+    border : solid 2px;
+    }
+    .ab4 {
+    margin-left : 51%;
+    margin-right : -80%;
+    padding-right : 15px;
+    margin-top : -25%;
+    }
+    #third .ab1 {
+    margin-left : 24.5%;
+    }
